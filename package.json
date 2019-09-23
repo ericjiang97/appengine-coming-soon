@@ -1,0 +1,14 @@
+{
+  "name": "appengine-coming-soon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ericjiang97/appengine-coming-soon.git",
+  "author": "Eric Jiang <eric.jiang@monash.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
