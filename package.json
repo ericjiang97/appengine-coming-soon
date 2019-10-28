@@ -6,7 +6,8 @@
   "author": "Eric Jiang <eric.jiang@monash.edu>",
   "license": "MIT",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "deploy": "gcloud app deploy --quiet"
   },
   "dependencies": {
     "express": "^4.17.1"
